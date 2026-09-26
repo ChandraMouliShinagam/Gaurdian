@@ -1,0 +1,6 @@
+{
+  "name": "GUARDIAN - AI Safety Companion",
+  "description": "Real-time AI safety companion with live multimodal voice intelligence and deterministic Safety Kernel for solo travelers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
